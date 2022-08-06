@@ -1,0 +1,4 @@
+# Distinguimos facilmente los directorios
+ls -F
+#  Nos muestra los archivos dentro de los directorios de forma recursiva.
+ls -FR
