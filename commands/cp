@@ -1,0 +1,3 @@
+# Cuando vas sobreescribir un fichero en otro, con la opción -i pide una confirmación
+cp -i perro perro1
+cp: ¿sobreescribir 'perro1'? (s/n)
