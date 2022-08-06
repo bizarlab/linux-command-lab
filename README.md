@@ -1,3 +1,3 @@
 # linux-command-lab
 
-Repositorio donde voy subiendo diferentes comandos interesantes con sus opciones
+Repositorio donde voy subiendo diferentes comandos interesantes con sus respectivas opciones.
