@@ -2,3 +2,13 @@
 ls -F
 #  Nos muestra los archivos dentro de los directorios de forma recursiva.
 ls -FR
+# Podemos listar archivos individuales y añadir una (?) dentro de la busqueda, que significa que puede haber solo un caracter
+ls -l prueb?
+# Aquí lo mismo pero añadiendo (*) pudiendo ser cualquier cantidad de carácteres
+ls -l prueb*
+# Filtrar las busquedas con wildcards se llama globbing, podemos usar brackets tambien
+# Filtra letra "a" o "o"
+ls -l prueb[ao]
+# Filtra desde la "a" a la "u"
+ls -l prueba[a-u]
+
